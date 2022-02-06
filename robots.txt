@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+sitemap:https://www.ozawa8.ml/sitemap.xml
